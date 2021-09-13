@@ -2,7 +2,7 @@
 
 ---
 
-> This is a simple landing page. In this website we can see random quotes.
+> This is a simple landing page. On this website, we can see random quotes.
 
 ---
 ##
