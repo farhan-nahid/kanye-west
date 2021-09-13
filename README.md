@@ -5,15 +5,15 @@
 > This is a simple landing page. In this website we can see random quotes.
 
 ---
+##
 
-<!-- <img src="https://i.ibb.co/CmcvrYn/Discover-The-World.png" alt="Discover-The-World" border="0"> -->
-
+<img src="https://i.ibb.co/n6GjFdY/Kanye-West.png" alt="Kanye-West" border="0">
 
 ---
 
 ## Live Link
 
-[Link](https://kanye-west.vercel.app/)
+[Link](https://kanye--west.vercel.app/)
 
 ---
 
@@ -23,7 +23,6 @@
 https://api.kanye.rest/
 
 ```
-
 
 ## Technology
 
